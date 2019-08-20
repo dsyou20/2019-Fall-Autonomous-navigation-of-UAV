@@ -20,5 +20,5 @@
 - https://learn.subak.io/px4-workbook/%EB%93%9C%EB%A1%A0-%EC%88%98%ED%95%99%EA%B3%BC-%EB%AC%BC%EB%A6%AC.html **
 
 # 강의 자료
-제1강 : https://docs.google.com/presentation/d/1H3LbR9sGhbTsfxKWClXYj89ZIbDb8IHu9kcY1DyOrUU/edit#slide=id.g5fb61c6c87_0_657
-제2강 : https://docs.google.com/presentation/d/1YGXdEjplx9lHwzKUGY19pDHiHzNqxJs4riiaLrYcbkA/edit#slide=id.gc6f80d1ff_0_0
+- 제1강 : https://docs.google.com/presentation/d/1H3LbR9sGhbTsfxKWClXYj89ZIbDb8IHu9kcY1DyOrUU/edit#slide=id.g5fb61c6c87_0_657
+- 제2강 : https://docs.google.com/presentation/d/1YGXdEjplx9lHwzKUGY19pDHiHzNqxJs4riiaLrYcbkA/edit#slide=id.gc6f80d1ff_0_0
