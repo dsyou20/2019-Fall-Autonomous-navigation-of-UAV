@@ -13,6 +13,7 @@
 # 참고 교제
 - https://www.slideshare.net/corradosantoro/quadcopter-31045379?from_action=save ***
 - Reception & Navigation: http://www.kmooc.kr/courses/course-v1:SEOULTECHk+SMOOC04k+2019_T4/course/ ****
+- Robotics: http://www.kmooc.kr/courses/course-v1:SEOULTECHk+SMOOC01k+2019_T1/course/ ****
 - ROS 프로그래밍 : https://community.robotsource.org/t/download-the-ros-robot-programming-book-for-free/51 ***
 
 # 참고 사이트
