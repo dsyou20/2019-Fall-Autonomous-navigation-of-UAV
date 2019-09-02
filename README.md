@@ -33,3 +33,5 @@
 - 회전변환 : https://suhak.tistory.com/387
 - 벡터 : https://hyner.tistory.com/131
 - 행렬연산 : https://ratsgo.github.io/linear%20algebra/2017/03/14/operations/
+- 조건부확률 : https://www.mathfactory.net/11235
+
