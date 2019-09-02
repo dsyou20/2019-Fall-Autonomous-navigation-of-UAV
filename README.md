@@ -30,5 +30,6 @@
  
 # 기초 수학
 - 삼각함수 : https://j1w2k3.tistory.com/879
+- 회전변환 : https://suhak.tistory.com/387
 - 벡터 : https://hyner.tistory.com/131
 - 행렬연산 : https://ratsgo.github.io/linear%20algebra/2017/03/14/operations/
