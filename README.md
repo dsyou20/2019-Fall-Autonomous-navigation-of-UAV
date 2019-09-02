@@ -28,3 +28,7 @@
 * 실습용 도커 이미지 : https://cloud.docker.com/u/dsyou20/repository/docker/dsyou20/afdev
   
  
+# 기초 수학
+- 삼각함수 : https://j1w2k3.tistory.com/879
+- 벡터 : https://hyner.tistory.com/131
+- 행렬연산 : https://ratsgo.github.io/linear%20algebra/2017/03/14/operations/
