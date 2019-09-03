@@ -28,6 +28,7 @@
 - 제4강 : https://docs.google.com/presentation/d/1_ZfR2plHk_H76AuPWox4AGdTTE_pExbx_sevQwWoYfo/edit?usp=sharing
 - 제5강 : https://docs.google.com/presentation/d/1nF69hRlfswlPcYl4WTn1v_JqXWywFSosjYgmmuzTHr4/edit?usp=sharing
 - 제6강 : https://docs.google.com/presentation/d/1XxN0bKQSqL7yZthRuMkJLcrl9-Lqc2vmJPsue1uLdOs/edit?usp=sharing
+- 제7강 : https://docs.google.com/presentation/d/18bwfqdML26kkkvBxnmeah_I3qVO48oKBnPJ_r-nuDQo/edit?usp=sharing
 
 
 * 실습용 도커 이미지 : https://cloud.docker.com/u/dsyou20/repository/docker/dsyou20/afdev
