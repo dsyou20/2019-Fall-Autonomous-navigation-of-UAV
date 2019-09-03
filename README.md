@@ -1,9 +1,8 @@
 # 2019-Fall-Autonomous-navigation-of-UAV
-항법시스템 자료실입니다.
+항법시스템 커뮤니티 자료실입니다.
 
-이 수업의 목적은 무인항공기 특히 드론을 자율적으로 운행하는데 필요한 학문적 배경과 구현기술을 습득하는데 있습니다.
+우리의 목적은 무인항공기 특히 드론을 자율적으로 운행하는데 필요한 학문적 배경과 구현기술을 습득하는데 있습니다.
 
-이 수업를 수강후 여러분은 다음과 같은 능력을 갖추게 됩니다.
 - 드론 자율 항법을 위한 기초 배경 지식
 - 드론 시뮬레이터를 통한 자율 항법 기술 
 - 자율 비행을 위한 프로그래밍 환경 지식
@@ -24,7 +23,7 @@
 
 - ROS Academy: https://www.robotigniteacademy.com/en/course/programming-drones-with-ros_24_0/
 
-# 강의 자료
+# 발표 자료
 - 제1강 : https://docs.google.com/presentation/d/1H3LbR9sGhbTsfxKWClXYj89ZIbDb8IHu9kcY1DyOrUU/edit#slide=id.g5fb61c6c87_0_657
 - 제2강 : https://docs.google.com/presentation/d/1YGXdEjplx9lHwzKUGY19pDHiHzNqxJs4riiaLrYcbkA/edit?usp=sharing
 - 제3강 : https://docs.google.com/presentation/d/1G1nGTSBL6nk6_cV4LaZAPIzfJ0H0azpPFDm36gyVjQE/edit?usp=sharing
@@ -34,7 +33,7 @@
 - 제7강 : https://docs.google.com/presentation/d/18bwfqdML26kkkvBxnmeah_I3qVO48oKBnPJ_r-nuDQo/edit?usp=sharing
 - 제8강 : https://docs.google.com/presentation/d/1X8rLXU4qwRsQ8K5ZtzVHzmsAFfTPLrPvxT9m8P7h3Y4/edit?usp=sharing
 
-- *과제 : https://docs.google.com/presentation/d/1E_B1I7a5KaBt0MBvfhpHXYU2k7CD_WSzR3v6htn9Aiw/edit?usp=sharing
+- *발표 : https://docs.google.com/presentation/d/1E_B1I7a5KaBt0MBvfhpHXYU2k7CD_WSzR3v6htn9Aiw/edit?usp=sharing
 
 * 실습용 도커 이미지 : https://cloud.docker.com/u/dsyou20/repository/docker/dsyou20/afdev
   
