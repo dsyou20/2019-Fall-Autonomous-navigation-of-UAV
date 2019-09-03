@@ -15,6 +15,7 @@
 - Reception & Navigation: http://www.kmooc.kr/courses/course-v1:SEOULTECHk+SMOOC04k+2019_T4/course/ ****
 - Robotics: http://www.kmooc.kr/courses/course-v1:SEOULTECHk+SMOOC01k+2019_T1/course/ ****
 - ROS 프로그래밍 : https://community.robotsource.org/t/download-the-ros-robot-programming-book-for-free/51 ***
+- ROS 세미 : https://github.com/robotpilot/ros-seminar
 
 # 참고 사이트
 - px4 flight controller - https://docs.px4.io/v1.9.0/en/
