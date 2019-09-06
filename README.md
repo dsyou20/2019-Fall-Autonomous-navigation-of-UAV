@@ -46,4 +46,6 @@
 - 벡터 : https://hyner.tistory.com/131
 - 행렬연산 : https://ratsgo.github.io/linear%20algebra/2017/03/14/operations/
 - 조건부확률 : https://www.mathfactory.net/11235
+- 머신러닝확률 : https://taeoh-kim.github.io/blog/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%97%90%EC%84%9C%EC%9D%98-%ED%99%95%EB%A5%A0-%EB%B6%84%ED%8F%AC-%EB%9E%9C%EB%8D%A4-%EB%B3%80%EC%88%98-%EA%B7%B8%EB%A6%AC%EA%B3%A0-maximum-likelihood/
+
 
