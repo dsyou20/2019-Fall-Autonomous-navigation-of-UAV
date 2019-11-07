@@ -25,7 +25,7 @@
 
 - ROS Academy: https://www.robotigniteacademy.com/en/course/programming-drones-with-ros_24_0/
 
-- A* : https://itmining.tistory.com/66
+- A* : https://deliorange.tistory.com/110
 
 # 발표 자료
 - 제1강 : https://docs.google.com/presentation/d/1H3LbR9sGhbTsfxKWClXYj89ZIbDb8IHu9kcY1DyOrUU/edit#slide=id.g5fb61c6c87_0_657
