@@ -46,6 +46,8 @@
 
 
 - *발표 : https://docs.google.com/presentation/d/1E_B1I7a5KaBt0MBvfhpHXYU2k7CD_WSzR3v6htn9Aiw/edit?usp=sharing
+- *과제 : Google Teachable Machine 실습 - 위 발표자료에 결과( 서비스주소, 서비스실행결과사진 ) 등록요망. 참고자료 -  https://teachablemachine.withgoogle.com/ , https://www.youtube.com/watch?v=USQGTW34lO8
+  
 
 * 실습용 도커 이미지 : https://cloud.docker.com/u/dsyou20/repository/docker/dsyou20/afdev
   
