@@ -1,7 +1,44 @@
-# 2019-Fall-Autonomous-navigation-of-UAV
-항법시스템 공유 자료실입니다.
+# 2020 - Autonomous-navigation-of-UAV
+본 강의 목적은 무인항공기 특히 드론을 자율적으로 운행하는데 필요한 구현기술을 습득하는데 있습니다.
 
-우리의 목적은 무인항공기 특히 드론을 자율적으로 운행하는데 필요한 학문적 배경과 구현기술을 습득하는데 있습니다.
+- 드론 자율 항법을 위한 기초 배경 지식
+- 드론 시뮬레이터를 통한 자율 항법 기술 
+- 자율 비행을 위한 프로그래밍 환경 지식
+- 자율 비행 프로그램 개발 환경 지식
+
+# 주차별 강의 내용
+- 제1강 : 항법 개요
+- 제2강 : 항법 프로그래밍 실습 환경 구축
+- 제3강 : Flight Gazebo Simulator 사용법
+- 제4강 : ROS Topic & Service 이해
+- 제5강 : Mavlink 포트토콜의 이해
+- 제6강 : Mavros 프로토콜 실슴
+- 제7강 : 이동 제어 실습( PID 제어 실습 )
+- 제8강 : 객체 인식 기술 소개 
+- 제9강 : yolo 객체 인식 실습
+- 제10강: Gazebo 월드 환경 구축 실습
+- 제11강: 텀 프로젝트 #1( Follow me )
+- 제12강: 텀 프로젝트 #2( Precise landing )
+- 제13강: 텀 프로젝트 #3( Local & Global planner )
+
+# 발표 자료
+- 제1강 : https://docs.google.com/presentation/d/1H3LbR9sGhbTsfxKWClXYj89ZIbDb8IHu9kcY1DyOrUU/edit#slide=id.g5fb61c6c87_0_657
+- 제2강 : https://docs.google.com/presentation/d/1YGXdEjplx9lHwzKUGY19pDHiHzNqxJs4riiaLrYcbkA/edit?usp=sharing
+- 제3강 : https://docs.google.com/presentation/d/1G1nGTSBL6nk6_cV4LaZAPIzfJ0H0azpPFDm36gyVjQE/edit?usp=sharing
+- 제4강 : https://docs.google.com/presentation/d/1_ZfR2plHk_H76AuPWox4AGdTTE_pExbx_sevQwWoYfo/edit?usp=sharing
+- 제5강 : https://docs.google.com/presentation/d/1nF69hRlfswlPcYl4WTn1v_JqXWywFSosjYgmmuzTHr4/edit?usp=sharing
+- 제6강 : https://docs.google.com/presentation/d/1XxN0bKQSqL7yZthRuMkJLcrl9-Lqc2vmJPsue1uLdOs/edit?usp=sharing
+- 제7강 : https://docs.google.com/presentation/d/18bwfqdML26kkkvBxnmeah_I3qVO48oKBnPJ_r-nuDQo/edit?usp=sharing
+- 제8강 : https://docs.google.com/presentation/d/1X8rLXU4qwRsQ8K5ZtzVHzmsAFfTPLrPvxT9m8P7h3Y4/edit?usp=sharing
+- 제9강 : https://docs.google.com/presentation/d/1BRJv8CadqPi58Z-uOiAogoO7vdLgjcNgqgtU152oCQ0/edit?usp=sharing
+- 제10강: https://docs.google.com/presentation/d/13iw9kzgyPlVepM5bEGxS_LrlqSrN-oYq6HhZscQh4lQ/edit?usp=sharing
+- 제11강: https://docs.google.com/presentation/d/1xCHbou5WN-mZJFO9a6bwsyu3iESSshbrvMpL9ulx5AI/edit?usp=sharing
+- 제12강: https://docs.google.com/presentation/d/16X5bDge_7onF6eeB5rD9ymjprqWrfnuAUG9EFSrbyzk/edit?usp=sharing
+- 제13강: https://docs.google.com/presentation/d/1E_B1I7a5KaBt0MBvfhpHXYU2k7CD_WSzR3v6htn9Aiw/edit?usp=sharing
+
+
+# 2019 -  Autonomous-navigation-of-UAV
+본 강의 목적은 무인항공기 특히 드론을 자율적으로 운행하는데 필요한 학문적 배경과 구현기술을 습득하는데 있습니다.
 
 - 드론 자율 항법을 위한 기초 배경 지식
 - 드론 시뮬레이터를 통한 자율 항법 기술 
