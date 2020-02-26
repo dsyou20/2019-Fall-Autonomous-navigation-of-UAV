@@ -24,19 +24,7 @@
 - 제15강: 기말평가
 
 # 발표 자료
-- 제1강 : https://docs.google.com/presentation/d/1H3LbR9sGhbTsfxKWClXYj89ZIbDb8IHu9kcY1DyOrUU/edit#slide=id.g5fb61c6c87_0_657
-- 제2강 : https://docs.google.com/presentation/d/1YGXdEjplx9lHwzKUGY19pDHiHzNqxJs4riiaLrYcbkA/edit?usp=sharing
-- 제3강 : https://docs.google.com/presentation/d/1G1nGTSBL6nk6_cV4LaZAPIzfJ0H0azpPFDm36gyVjQE/edit?usp=sharing
-- 제4강 : https://docs.google.com/presentation/d/1_ZfR2plHk_H76AuPWox4AGdTTE_pExbx_sevQwWoYfo/edit?usp=sharing
-- 제5강 : https://docs.google.com/presentation/d/1nF69hRlfswlPcYl4WTn1v_JqXWywFSosjYgmmuzTHr4/edit?usp=sharing
-- 제6강 : https://docs.google.com/presentation/d/1XxN0bKQSqL7yZthRuMkJLcrl9-Lqc2vmJPsue1uLdOs/edit?usp=sharing
-- 제7강 : https://docs.google.com/presentation/d/18bwfqdML26kkkvBxnmeah_I3qVO48oKBnPJ_r-nuDQo/edit?usp=sharing
-- 제8강 : https://docs.google.com/presentation/d/1X8rLXU4qwRsQ8K5ZtzVHzmsAFfTPLrPvxT9m8P7h3Y4/edit?usp=sharing
-- 제9강 : https://docs.google.com/presentation/d/1BRJv8CadqPi58Z-uOiAogoO7vdLgjcNgqgtU152oCQ0/edit?usp=sharing
-- 제10강: https://docs.google.com/presentation/d/13iw9kzgyPlVepM5bEGxS_LrlqSrN-oYq6HhZscQh4lQ/edit?usp=sharing
-- 제11강: https://docs.google.com/presentation/d/1xCHbou5WN-mZJFO9a6bwsyu3iESSshbrvMpL9ulx5AI/edit?usp=sharing
-- 제12강: https://docs.google.com/presentation/d/16X5bDge_7onF6eeB5rD9ymjprqWrfnuAUG9EFSrbyzk/edit?usp=sharing
-- 제13강: https://docs.google.com/presentation/d/1E_B1I7a5KaBt0MBvfhpHXYU2k7CD_WSzR3v6htn9Aiw/edit?usp=sharing
+- 제1강 : https://docs.google.com/presentation/d/12UQFLTPWRAGsM08jndUazFB0x6du0khOqLGqdc2MUYs/edit?usp=sharing
 
 
 # 2019 -  Autonomous-navigation-of-UAV
