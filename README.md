@@ -1,4 +1,4 @@
-# 2020 - Autonomous-navigation-of-UAV
+# 2020 - Unmaned Traffic Management for UAVs
 본 강의 목적은 무인항공기 특히 드론을 자율적으로 운행 및 관제하는데 필요한 배경지시과 구현기술을 습득하는데 있습니다.
 
 - 드론 자율 항법을 위한 기초 배경 지식
