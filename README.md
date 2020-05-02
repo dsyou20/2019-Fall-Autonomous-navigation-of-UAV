@@ -10,9 +10,9 @@
 - 제2강 : 무인관제시스템 프로그래밍 실습 환경 구축 실습
 - 제3강 : 가상 비행시뮬레이터 및 지상제어국 실습
 - 제4강 : Mavlink 포트토콜의 이해
-- 제5강 : ROS 에 대한 이해 
+- 제5강 : ROS 에 대한 이해 (https://github.com/robotpilot/ros-seminar)
 - 제6강 : ROS 에 대한 이해 2
-- 제7강 : Geometry 개요
+- 제7강 : Geometry 개요(https://drive.google.com/open?id=1pUeMmA5-8Pn-lD8DjoCIExLUomjZNgHC)
 - 제8강 : 중간평가
 
 - 제9강 : Python 프로그래밍 실습
