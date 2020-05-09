@@ -15,8 +15,8 @@
 - 제7강 : Geometry 개요(https://drive.google.com/open?id=1pUeMmA5-8Pn-lD8DjoCIExLUomjZNgHC)
 - 제8강 : 중간평가
 
-- 제9강 : Python 프로그래밍 실습
-- 제10강: MAVROS 비행제어 실습
+- 제9강 : Python 프로그래밍 실습(https://docs.python.org/ko/3/tutorial/index.html)
+- 제10강: MAVROS 비행제어 실습(https://github.com/raaslab/mavros_offboard_control)
 - 제11강: MAVSDK 비행제어 실습
 - 제12강: ROS기반 자율비행 드론 실습
 - 제13강: ROS3DJS 실습
