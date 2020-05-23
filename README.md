@@ -16,9 +16,9 @@
 - 제8강 : 중간평가
 
 - 제9강 : Python 프로그래밍 실습(https://docs.python.org/ko/3/tutorial/index.html)
-- 제10강: MAVROS 비행제어 실습(https://github.com/raaslab/mavros_offboard_control)
-- 제11강: MAVSDK 비행제어 실습
-- 제12강: ROS기반 자율비행 드론 실습
+- 제10강: ELK 실습
+- 제11강: ELK로 관제 모니터링 실습
+- 제12강: MAVROS/MAVSDK 비행제어 실습(https://github.com/raaslab/mavros_offboard_control)
 - 제13강: ROS3DJS 실습
 - 제14강: 발표
 - 제15강: 기말평가
