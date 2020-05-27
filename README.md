@@ -17,7 +17,7 @@
 
 - 제9강 : Python 프로그래밍 실습(https://docs.python.org/ko/3/tutorial/index.html)
 - 제10강: ELK 실습( https://github.com/karadalex/roslogs-elk-docker, https://victorydntmd.tistory.com/308?category=742451 ) 
-- 제11강: ELK로 관제 모니터링 실습( https://jtoday.tistory.com/57?category=714806 )
+- 제11강: ELK로 관제 모니터링 실습( https://jtoday.tistory.com/57?category=714806 , https://wedul.site/571 )
 - 제12강: MAVROS/MAVSDK 비행제어 실습(https://github.com/raaslab/mavros_offboard_control)
 - 제13강: ROS3DJS 실습
 - 제14강: 발표
