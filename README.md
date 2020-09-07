@@ -1,3 +1,46 @@
+# 2020(2) - Unmaned Traffic Management for UAVs
+본 강의 목적은 무인항공기 특히 드론을 자율적으로 운행 및 관제하는데 필요한 배경지시과 구현기술을 습득하는데 있습니다.
+
+- 드론 자율 항법을 위한 기초 배경 지식
+- 드론 시뮬레이터를 통한 자율 항법 기술 
+- 자율 비행 및 관제을 위한 프로그래밍 지식
+
+# 주차별 강의 내용
+- 제1강 : 무인관제시스템 개요
+- 제2강 : 무인관제시스템 프로그래밍 실습 환경 구축 실습
+- 제3강 : 가상 비행시뮬레이터 및 지상제어국 실습
+- 제4강 : Mavlink 포트토콜의 이해
+- 제5강 : ROS 에 대한 이해 (https://github.com/robotpilot/ros-seminar)
+- 제6강 : ROS 에 대한 이해 2
+- 제7강 : Geometry 개요(https://drive.google.com/open?id=1pUeMmA5-8Pn-lD8DjoCIExLUomjZNgHC)
+- 제8강 : 중간평가
+
+- 제9강 : Python 프로그래밍 실습(https://docs.python.org/ko/3/tutorial/index.html)
+- 제10강: ELK 실습( https://github.com/karadalex/roslogs-elk-docker, https://victorydntmd.tistory.com/308?category=742451 ) 
+- 제11강: ELK로 관제 모니터링 실습( https://jtoday.tistory.com/57?category=714806 , https://wedul.site/571 )
+- 제12강: MAVROS/MAVSDK 비행제어 실습(https://github.com/raaslab/mavros_offboard_control)
+- 제13강: ROS3DJS 실습
+- 제14강: 발표
+- 제15강: 기말평가
+
+# 발표 자료
+- 제1강 : https://docs.google.com/presentation/d/12UQFLTPWRAGsM08jndUazFB0x6du0khOqLGqdc2MUYs/edit?usp=sharing
+- 제2강 : https://docs.google.com/presentation/d/13wJ5bCiYMXepkzR0YYAJFVEXcg7jeQQLfld_x5F21yU/edit?usp=sharing
+- 제3강 : https://docs.google.com/presentation/d/1gbViNvjBdG8l1aBPMatQgHKF3faNZAfgdkd80JRyCQ8/edit?usp=sharing
+- 제4강 : https://docs.google.com/presentation/d/1XYS6lBEruDeZjTEuDea3_618rX-cXHqE_hTkTlwOQA8/edit?usp=sharing
+- 제5강 : https://docs.google.com/presentation/d/10LKB4gkW9tkNiv0xU23KOe-_B8FdRJuxCaBzRIjsMaw/edit?usp=sharing
+- 제6강 : https://docs.google.com/presentation/d/1462uvvbumXT3VHTTmIEvDdir-QmdhuqM2lqd9MdXdlk/edit?usp=sharing
+- 제7강 : https://docs.google.com/presentation/d/1V56xJ_J6OTPB10k6_nb75uFEywAN9QNFcYy5B6JxBXY/edit?usp=sharing
+
+- 제9강 : https://docs.google.com/presentation/d/1FqSUhQU7YWj_yLZO8q4QvjPKGt9FSfvEl2guGTorcT0/edit?usp=sharing
+- 제10강: https://docs.google.com/presentation/d/1OWNgXFbC00yWswvFfXRGKZusHmjN2Pqd-NVJQlEFDlo/edit?usp=sharing
+- 제11강: https://docs.google.com/presentation/d/1Du52F8tx35sxCuB9fwreN6M2z7X7YzQ4yiCa6rnwCfk/edit?usp=sharing
+- 제12강: https://docs.google.com/presentation/d/1TwXLlBbspIx55a3bJeg-Zw_QvIV97PkVTbhJEaM3mOk/edit?usp=sharing
+- 제13강: https://docs.google.com/presentation/d/10RxAS6oehowVwh-bDrVC8dWqwt02g5yfQwL2oIxwDzw/edit?usp=sharing
+- 제14강: https://docs.google.com/presentation/d/1Jm4di6bCtyE43WM4xG7ldv-MOG_FyGwoY9tFaGVgHrM/edit?usp=sharing
+
+
+
 # 2020 - Unmaned Traffic Management for UAVs
 본 강의 목적은 무인항공기 특히 드론을 자율적으로 운행 및 관제하는데 필요한 배경지시과 구현기술을 습득하는데 있습니다.
 
