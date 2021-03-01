@@ -1,4 +1,4 @@
-# 2021(2) - Unmaned Traffic Management for UAVs
+# 2021(1) - Unmaned Traffic Management for UAVs
 본 강의 목적은 무인항공기 특히 드론을 자율적으로 운행 및 관제하는데 필요한 배경지식과 구현기술을 습득하는데 있습니다.
 특히, 자율운행시스템을 구현을 위한 사용자 인터페이스 기술을 연마한다.
 
