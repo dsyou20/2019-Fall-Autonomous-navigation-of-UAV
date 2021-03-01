@@ -1,3 +1,49 @@
+# 2021(2) - Unmaned Traffic Management for UAVs
+본 강의 목적은 무인항공기 특히 드론을 자율적으로 운행 및 관제하는데 필요한 배경지식과 구현기술을 습득하는데 있습니다.
+특히, 자율운행시스템을 구현을 위한 사용자 인터페이스 기술을 연마한다.
+
+- 운영환경 제작을 위한 웹 제작 기술 개발(react)
+- 운영환경 제작을 위한 지리정보 표작 기술 개발(openlayser)
+- 자율 비행 및 관제을 위한 수학 지식
+
+# 주차별 강의 내용
+- 제1강 : 웹기술 개발 도구 소개
+- 제2강 : 웹제작 기술 실습 1
+- 제3강 : 웹제작 기술 실습 2
+- 제4강 : 웹제작 기술 실습 3
+- 제5강 : 웹제작 기술 실습 4
+- 제6강 : 웹제작 기술 실습 5
+- 제7강 : 웹제작 기술 실습 6
+- 제8강 : 중간평가
+
+- 제9강 : 웹 지리정보 제작 기술 실습 1
+- 제10강: 웹 지리정보 제작 기술 실습 2
+- 제11강: 웹 지리정보 제작 기술 실습 3
+- 제12강: 웹 지리정보 제작 기술 실습 4
+- 제13강: 웹 지리정보 제작 기술 실습 5
+- 제14강: 포트폴리오 발표
+- 제15강: 기말평가
+
+# 발표 자료
+- 제1강 : https://docs.google.com/presentation/d/12UQFLTPWRAGsM08jndUazFB0x6du0khOqLGqdc2MUYs/edit?usp=sharing
+- 제2강 : https://docs.google.com/presentation/d/13wJ5bCiYMXepkzR0YYAJFVEXcg7jeQQLfld_x5F21yU/edit?usp=sharing
+- 제3강 : https://docs.google.com/presentation/d/1gbViNvjBdG8l1aBPMatQgHKF3faNZAfgdkd80JRyCQ8/edit?usp=sharing
+- 제4강 : https://docs.google.com/presentation/d/1XYS6lBEruDeZjTEuDea3_618rX-cXHqE_hTkTlwOQA8/edit?usp=sharing
+- 제5강 : https://docs.google.com/presentation/d/10LKB4gkW9tkNiv0xU23KOe-_B8FdRJuxCaBzRIjsMaw/edit?usp=sharing
+- 제6강 : https://docs.google.com/presentation/d/1462uvvbumXT3VHTTmIEvDdir-QmdhuqM2lqd9MdXdlk/edit?usp=sharing
+- 제7강 : https://docs.google.com/presentation/d/1V56xJ_J6OTPB10k6_nb75uFEywAN9QNFcYy5B6JxBXY/edit?usp=sharing
+
+- 제9강 : https://docs.google.com/presentation/d/1FqSUhQU7YWj_yLZO8q4QvjPKGt9FSfvEl2guGTorcT0/edit?usp=sharing
+- 제10강: https://docs.google.com/presentation/d/1OWNgXFbC00yWswvFfXRGKZusHmjN2Pqd-NVJQlEFDlo/edit?usp=sharing
+- 제11강: https://docs.google.com/presentation/d/1Du52F8tx35sxCuB9fwreN6M2z7X7YzQ4yiCa6rnwCfk/edit?usp=sharing
+- 제12강: https://docs.google.com/presentation/d/1TwXLlBbspIx55a3bJeg-Zw_QvIV97PkVTbhJEaM3mOk/edit?usp=sharing
+- 제13강: https://docs.google.com/presentation/d/10RxAS6oehowVwh-bDrVC8dWqwt02g5yfQwL2oIxwDzw/edit?usp=sharing
+- 제14강: https://docs.google.com/presentation/d/1Jm4di6bCtyE43WM4xG7ldv-MOG_FyGwoY9tFaGVgHrM/edit?usp=sharing
+
+
+
+
+
 # 2020(2) - Unmaned Traffic Management for UAVs
 본 강의 목적은 무인항공기 특히 드론을 자율적으로 운행 및 관제하는데 필요한 배경지시과 구현기술을 습득하는데 있습니다.
 
